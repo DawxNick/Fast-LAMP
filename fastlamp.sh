@@ -18,4 +18,4 @@ service apache2 restart
 echo "Please enter your MariaDB password."
 echo "update user set plugin='' where User='root'; flush privileges;" | mysql -u root -p mysql
 echo "LAMP is successfully installed, enjoy."
-read -p "Press enter to finish the installation"
+read -p "Press enter to finish the installation."
