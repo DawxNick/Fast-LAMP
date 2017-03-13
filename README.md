@@ -1,4 +1,4 @@
-# Fast-A2vHost
+# Fast-LAMP
 Quickly create a fully functional LAMP Stack on Ubuntu 16.04.
 
 To use the script, run the following commands.
